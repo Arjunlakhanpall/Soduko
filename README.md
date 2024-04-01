@@ -1,7 +1,7 @@
 Sudoku Solver
 Forrest Knight
 
-CS 480 - Artificial Intelligence - Fall 2017
+CS 480 - Artificial Intelligence - Fall 2020
 
 Python Version 3.0+
 
